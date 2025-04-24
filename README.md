@@ -5,8 +5,8 @@
 
 <h3 align="left">✏️ I'm currently working on..</h3>
 <ul>
-    <li>Landing my first internship/co-op</li>
-    <li>Developing my technical skills and practicing via projects</li>
+    <li>Building a super secret startup</li>
+    <li>Further developing my technical skills and growing my experiences</li>
     <li>Growing my network and meaningful relationships</li>
 </ul>
 
