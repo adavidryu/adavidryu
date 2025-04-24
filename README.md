@@ -6,7 +6,7 @@
 <h3 align="left">✏️ I'm currently working on..</h3>
 <ul>
     <li>Landing my first internship/co-op</li>
-    <li>Developing my techical skills and practicing via projects</li>
+    <li>Developing my technical skills and practicing via projects</li>
     <li>Growing my network and meaningful relationships</li>
 </ul>
 
@@ -14,8 +14,8 @@
 
 <h3 align="left">💫 Fun facts about me are..</h3>
 <ul>
-    <li>I love working on my car, playing volleyball/basketball, and lifting</li>
-    <li>I've visited 15 countries and food is one of my favorite aspects of culture</li>
+    <li>I love working on my car and motorcycle, playing volleyball and basketball, and lifting</li>
+    <li>I've visited 15 countries, and food is one of my favorite aspects of culture</li>
 </ul>
 
 ---
