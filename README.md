@@ -1,6 +1,6 @@
 <h1 align="center">Howdy 👋, I'm Adam</h1>
 <h3 align="center">A CS student at Texas A&M University!</h3>
-<p>I want to build, grow, and lead. My passion shows in my work, hobbies, and relationships.</p>
+<p align="center">I want to build, grow, and lead. My passion shows in my work, hobbies, and relationships.</p>
 
 ---
 
