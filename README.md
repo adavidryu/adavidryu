@@ -1,21 +1,22 @@
-<h1 align="center">Hey 👋, I'm Adam</h1>
-<h3 align="center">A passionate student at Texas A&M University!</h3>
+<h1 align="center">Howdy 👋, I'm Adam</h1>
+<h3 align="center">A CS student at Texas A&M University!</h3>
+<p>I want to build, grow, and lead. My passion shows in my work, hobbies, and relationships.</p>
 
 ---
 
 <h3 align="left">✏️ I'm currently working on..</h3>
 <ul>
-    <li>A research internship at Texas A&M, building software and contributing in meaningful educational outreach within the commmunity</li>
-    <li>Further developing my technical skills and growing my experiences</li>
-    <li>Growing my network and meaningful relationships</li>
+    <li>A research internship at Texas A&M, building software and contributing to meaningful educational outreach within the community</li>
+    <li>Building personal projects, networking, and building meaningful relationships</li>
+    <li>Raising my new Belgian Malinois 🐕</li>
 </ul>
 
 ---
 
 <h3 align="left">💫 Fun facts about me are..</h3>
 <ul>
-    <li>I love working on my car and motorcycle, playing volleyball and basketball, and lifting</li>
-    <li>I've visited 15 countries, and food is one of my favorite aspects of culture</li>
+    <li>I love working on my car and bike, playing volleyball and basketball, and lifting</li>
+    <li>I've traveled across the world quite a bit, and the best thing is getting good food</li>
 </ul>
 
 ---
