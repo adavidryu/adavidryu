@@ -8,14 +8,14 @@
 <ul>
     <li>Landing my next CS-related position and pushing my career forward</li>
     <li>Building personal projects, networking, and building meaningful relationships</li>
-    <li>Raising my new Belgian Malinois 🐕</li>
+    <li>Raising my Belgian Malinois 🐕</li>
 </ul>
 
 ---
 
 <h3 align="left">💫 Fun facts about me are..</h3>
 <ul>
-    <li>I love working on my car and bike, playing volleyball and basketball, and lifting</li>
+    <li>I love working on my car and bike, playing volleyball and basketball, and cooking</li>
     <li>I've traveled across the world quite a bit, and the best thing is getting good food</li>
 </ul>
 
