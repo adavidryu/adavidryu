@@ -4,9 +4,9 @@
 
 ---
 
-<h3 align="left">✏️ I'm currently working on..</h3>
+<h3 align="left">✏️ I'm currently..</h3>
 <ul>
-    <li>Landing my next CS-related position and pushing my career forward</li>
+    <li>Incoming SWE intern at Toyota Financial Services</li>
     <li>Building personal projects, networking, and building meaningful relationships</li>
     <li>Raising my Belgian Malinois 🐕</li>
 </ul>
