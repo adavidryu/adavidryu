@@ -6,7 +6,7 @@
 
 <h3 align="left">✏️ I'm currently..</h3>
 <ul>
-    <li>Incoming SWE intern at Toyota Financial Services</li>
+    <li>SWE intern at Toyota Financial Services</li>
     <li>Building personal projects, networking, and building meaningful relationships</li>
     <li>Raising my Belgian Malinois 🐕</li>
 </ul>
